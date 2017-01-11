@@ -1,0 +1,12 @@
+Git commands:
+
+- git init
+ - git status
+ - git add
+ - git commit -m "message"
+ - git remote add origin https://github.com/vineet30/Repo.git
+ - git push -u origin master
+
+for username password:
+git config --global user.email ".gmail.com"
+git config -- global user.name "username"
